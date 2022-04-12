@@ -4,7 +4,7 @@ body {
 
 .title {
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .container {
@@ -13,13 +13,13 @@ body {
 }
 
 .mole-box {
-  height: 500px;
-  width: 500px;
+  height: 250px;
+  width: 250px;
 }
 
 .mole-img {
-  max-width: 500px;
-  max-height: 500px;
+  max-width: 250px;
+  max-height: 250px;
 }
 
 .hide-mole {

@@ -26,7 +26,7 @@ class App {
     const number = Math.trunc(Math.random() * 4);
     setTimeout(() => {
       moleImg.style.display = "";
-      textBox.style.display = "none";
+      textBox.remove();
     }, (number + 1) * 1000);
     moleImg.style.display = "none";
   }
